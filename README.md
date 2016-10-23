@@ -1,6 +1,8 @@
 # breeze-osx-decorations
 Aurorae window decorations for the KDE Plasma desktop environment.
 
+![Preview Screenshot of the window theme](https://raw.githubusercontent.com/MarianArlt/breeze-osx-decorations/master/Preview.jpeg)
+
 Tested with Plasma 5.8.2
 Based on the existing theme [Evolvere Light Pure Circle](https://github.com/franksouza183/EvolvereSuit/tree/master/aurorae-themes/EvolvereLightPureCircle) by [Frank Souza](https://github.com/franksouza183).
 
