@@ -8,7 +8,8 @@ Based on the existing theme [Evolvere Light Pure Circle](https://github.com/fran
 
 This is best used together with the default breeze themes. The default border width (config settings set to "normal") is 8px. This is by intention. It makes for a consistent design throughout any application. All buttons got subtle indicators for their actions just like the recent OSX versions do, only a little less dominant.
 
-Put the *Breeze-OSX* folder into `~/.local/share/aurorae/themes`.
+Preferably installed via **System Settings** > **Window Decorations** > **Get New Decorations**.
+If you want to install it manually clone this repo and put the *Breeze-OSX* folder into `~/.local/share/aurorae/themes`.
 
 If you would like to lower the border value you can easily change the **[Layout]** section of *Breeze-OSXrc* namely the values of `BorderBottom`, `BorderLeft`, `BorderRight` and `TitleEdgeBottom`.
 If you would like to use this theme without borders set the config settings to "tiny" and `TitleEdgeBottom` in *Breeze-OSXrc* to `0`.
