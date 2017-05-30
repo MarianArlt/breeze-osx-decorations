@@ -14,3 +14,9 @@ If you want to install it manually clone this repo and put the *Breeze-OSX* fold
 If you would like to lower the border value you can easily change the **[Layout]** section of *Breeze-OSXrc* namely the values of `BorderBottom`, `BorderLeft`, `BorderRight` and `TitleEdgeBottom`.
 If you would like to use this theme without borders set the config settings to "tiny" and `TitleEdgeBottom` in *Breeze-OSXrc* to `0`.
 Either of this might throw off paddings which would need additional adjustments in the same file.
+
+**Changelog**
+
+Version 1.1
+· Fixed clipping issues on maximized windows.
+· Cleaned up border paths of the inactive decoration.
