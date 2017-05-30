@@ -15,8 +15,8 @@ If you would like to lower the border value you can easily change the **[Layout]
 If you would like to use this theme without borders set the config settings to "tiny" and `TitleEdgeBottom` in *Breeze-OSXrc* to `0`.
 Either of this might throw off paddings which would need additional adjustments in the same file.
 
-**Changelog**
+### Changelog
 
-Version 1.1
-· Fixed clipping issues on maximized windows.
+*v1.1*  
+· Fixed clipping issues on maximized windows.  
 · Cleaned up border paths of the inactive decoration.
